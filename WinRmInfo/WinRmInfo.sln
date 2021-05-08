@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinRmInfo", "WinRmInfo\WinRmInfo.csproj", "{F77EE959-6C37-4978-9254-437C2B86E824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77EE959-6C37-4978-9254-437C2B86E824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77EE959-6C37-4978-9254-437C2B86E824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77EE959-6C37-4978-9254-437C2B86E824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77EE959-6C37-4978-9254-437C2B86E824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841B0080-EC94-45BE-8059-75BDC3BB2608}
+	EndGlobalSection
+EndGlobal

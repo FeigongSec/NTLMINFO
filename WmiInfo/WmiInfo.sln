@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WmiInfo", "WmiInfo\WmiInfo.csproj", "{92A4910D-E923-4C67-9B54-FAF0503BADCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A4910D-E923-4C67-9B54-FAF0503BADCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A4910D-E923-4C67-9B54-FAF0503BADCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A4910D-E923-4C67-9B54-FAF0503BADCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A4910D-E923-4C67-9B54-FAF0503BADCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D07C59-8942-44F9-8C66-AD79E9119BEB}
+	EndGlobalSection
+EndGlobal
