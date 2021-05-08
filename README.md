@@ -1,1 +1,1 @@
-# 基于NTLM认证的Windows常见端口服务探测Windows信息
+# 基于NTLM认证的常见端口服务探测Windows信息
